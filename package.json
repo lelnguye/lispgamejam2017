@@ -1,0 +1,11 @@
+{
+  "name": "biwa-game",
+  "version": "1.0.0",
+  "description": "made for the LispGame Jam 2017 (Hard Mode)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tsip",
+  "license": "BSD-2-Clause"
+}
